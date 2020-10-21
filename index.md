@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Joan Zhang Portfolio
 
-You can use the [editor on GitHub](https://github.com/jingwenZhang-0808/Joan-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Motivation Statement
+Study and protection of marine life has always been a topic that attracts me. Those creatures are completely different from us in appearance, physiological system, habits and so on. So their intelligence usually ignored by human, and most of them are not as adorable as cat or dog. A sad truth is that their extinction is not so easy to cause the attention and pity of most people. More closer contact can promote understanding. My direction is to remove the obstacles between human and marine creatures with the help of design and technology, and at the same do not harm both.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As for the context, I have been motivated by some potential audiences. There is a trend in some social platform to share their experience in so-called undersea hotel. In those video,  protagonists are usually in front of the huge French window, which is the only thing between them and fish stocks. Reviewers are all amazed by this dreamy effect. This case inspires me that although a single fish or turtle might not be accepted by our aesthetic, but a huge amount of them surrounding us is really attractive. On the other hand, the stories from divers impress me a lot. They have attended the weddings of humpback whales. They have seen the parent-child interaction between killer whales. Those stories are more persuasive than certain scientific results in presenting that they are also highly intelligent and social. More importantly, I have seen some AR and VR exhibitions that use the scenarios of whale jumping to show those techniques.
 
-```markdown
-Syntax highlighted code block
+ I hope children can become my future users. Just when they start to explore this world, the range they can grope for is expanded. Parents don’t need to stop them from playing in the water because of safety concerns. They can direct touch those elements no need of breath holding, just enjoy the the pleasure of being satisfied with curiosity. And another type of my future users could be aquariums, to replace those performances which can cause great mental trauma to dolphins, whales, seals and other actors. Maybe scholars in this area can gain certain benefits to promote their research findings to broader groups.
 
-# Header 1
-## Header 2
-### Header 3
+A shortcake for me is that I cannot find many existing works in this area so I can just share one case. This project called “Virtual Reality Wild Dolphin Experience”, which comes from Ric O`Barry`s Dolphin Project & RYOT. It seems just like a video at the first sight, recording a diver dived into sea and swam together with dolphins. But the uniqueness is that audience can use mouse for PC or just finger for tablet to adjust view angle. My experience of diving into the water while watching is more real and feel closer to dolphins. The prime mover Richard O` Barry is the first famous dolphin trainer but has already turned to engage in dolphin protection after experiencing a dolphin suicide. So he fully understands dolphins and which part of dolphin that human like for most. But beside advanced technique, I think storytelling can also help promote immersive effect, so I want to make some innovation in this part. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jingwenZhang-0808/Joan-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
