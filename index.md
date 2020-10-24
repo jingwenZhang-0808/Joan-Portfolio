@@ -6,7 +6,7 @@
 [full text](url)
 
 ### 7 in 7
-[day1](url)
+[day1](personal-motivation-statement.md)
 [day2](url)
 [day3](url)
 [day4](url)
