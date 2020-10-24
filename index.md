@@ -1,13 +1,15 @@
-## Joan Zhang Portfolio
+## Major Studio 1
 
 
 
 ### Personal Motivation Statement
-Study and protection of marine life has always been a topic that attracts me. Those creatures are completely different from us in appearance, physiological system, habits and so on. So their intelligence usually ignored by human, and most of them are not as adorable as cat or dog. A sad truth is that their extinction is not so easy to cause the attention and pity of most people. More closer contact can promote understanding. My direction is to remove the obstacles between human and marine creatures with the help of design and technology, and at the same do not harm both.
+[full text](url)
 
-As for the context, I have been motivated by some potential audiences. There is a trend in some social platform to share their experience in so-called undersea hotel. In those video,  protagonists are usually in front of the huge French window, which is the only thing between them and fish stocks. Reviewers are all amazed by this dreamy effect. This case inspires me that although a single fish or turtle might not be accepted by our aesthetic, but a huge amount of them surrounding us is really attractive. On the other hand, the stories from divers impress me a lot. They have attended the weddings of humpback whales. They have seen the parent-child interaction between killer whales. Those stories are more persuasive than certain scientific results in presenting that they are also highly intelligent and social. More importantly, I have seen some AR and VR exhibitions that use the scenarios of whale jumping to show those techniques.
-
- I hope children can become my future users. Just when they start to explore this world, the range they can grope for is expanded. Parents don’t need to stop them from playing in the water because of safety concerns. They can direct touch those elements no need of breath holding, just enjoy the the pleasure of being satisfied with curiosity. And another type of my future users could be aquariums, to replace those performances which can cause great mental trauma to dolphins, whales, seals and other actors. Maybe scholars in this area can gain certain benefits to promote their research findings to broader groups.
-
-A shortcake for me is that I cannot find many existing works in this area so I can just share one case. This project called “Virtual Reality Wild Dolphin Experience”, which comes from Ric O`Barry`s Dolphin Project & RYOT. It seems just like a video at the first sight, recording a diver dived into sea and swam together with dolphins. But the uniqueness is that audience can use mouse for PC or just finger for tablet to adjust view angle. My experience of diving into the water while watching is more real and feel closer to dolphins. The prime mover Richard O` Barry is the first famous dolphin trainer but has already turned to engage in dolphin protection after experiencing a dolphin suicide. So he fully understands dolphins and which part of dolphin that human like for most. But beside advanced technique, I think storytelling can also help promote immersive effect, so I want to make some innovation in this part. 
-
+### 7 in 7
+[day1](url)
+[day2](url)
+[day3](url)
+[day4](url)
+[day5](url)
+[day6](url)
+[day7](url)
