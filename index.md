@@ -3,10 +3,10 @@
 
 
 ### Personal Motivation Statement
-[full text](url)
+[full text](personal-motivation-statement.md)
 
 ### 7 in 7
-[day1](personal-motivation-statement.md)
+[day1](url)
 [day2](url)
 [day3](url)
 [day4](url)
