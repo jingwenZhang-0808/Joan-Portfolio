@@ -6,8 +6,8 @@
 [full text](personal-motivation-statement.md)
 
 ### 7 in 7
-[day1](url)
-[day2](url)
+[day1](day1.md)
+[day2](day2.md)
 [day3](url)
 [day4](url)
 [day5](url)
