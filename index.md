@@ -8,7 +8,7 @@
 ### 7 in 7
 [day1](day1.md)
 [day2](day2.md)
-[day3](url)
+[day3]()
 [day4](url)
 [day5](url)
 [day6](url)
