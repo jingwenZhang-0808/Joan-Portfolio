@@ -14,3 +14,5 @@ Today I want to make a lamp prototype. Adjusting light direction is a question a
 ![lamp2](lamp2.jpg)
 
 In this prototype, I do not choose to test how each stock can be installed together or taken apart. Also I use the flashlight of smartphone to substitute the built-in lightbulb. I just use newspapers to establish the basic structure and test the light effect in dark room.
+
+![prototype](prototype3.jpg)
