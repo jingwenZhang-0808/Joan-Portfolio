@@ -12,6 +12,8 @@ In the context of the COVID-19 epidemic in the world, air quality is something w
 
 ## Prototype
 
+![air and safe prototype](air_and_safe_prototype.jpg)
+
 - The general style of user interface is very simple, but roughly shows the core function: monitoring air quality and safety.
 - It also shows the technical feasibility, since the device behind is specially developed to record air quality.
 
