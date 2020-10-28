@@ -22,7 +22,7 @@ This is the scarf I use most frequently.
 I put them together and took a picture.
 ![autum4](autumn4.jpg)
 
-Add a mosaic filter.
+Mosaic this photo, so that it is easy to extract color.
 ![autum5](autumn5.jpg)
 
 Now I can get my own autumn color.
