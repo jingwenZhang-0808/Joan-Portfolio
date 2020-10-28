@@ -36,4 +36,4 @@ This is the classic episode from "The Legend of 1900". In this scene the heroine
 
 My prototype is mainly concentrate on comparison between same scene with frame and not with frame, so this is just about feel.
 
-![prototype6](prototype6.jpg.jpg)
+![prototype6](prototype6.jpg)
