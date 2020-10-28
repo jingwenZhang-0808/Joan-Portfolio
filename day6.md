@@ -12,9 +12,22 @@ The concept "frame" she mentioned here contributed a lot to her future artistic 
 
 ## Brainstorming
 
+![frame_sketch](frame_sketch.jpg)
+
 First I want to collect some examples we can see in daily life.
 
-![frame_sketch](frame_sketch.jpg)
+These are photos taken by Polaroid that I saw shared by others. They have their own frames.
+
+![example1](example1.jpg)
+
+This is an episode from “Millennium Actress”, in which the portrait of the heroine is framed exactly on the slate.
+
+![example2](example2.jpg)
+
+This is the classic episode from "The Legend of 1900". In this scene the heroine happened to appear in the box on the cabin. I think this gives the heroine a special beauty.
+
+![example3](example3.jpg)
+
 
 ## Prototype
 
