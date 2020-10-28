@@ -14,4 +14,13 @@ The concept "frame" she mentioned here contributed a lot to her future artistic 
 
 First I want to collect some examples we can see in daily life.
 
+![frame_sketch](frame_sketch.jpg)
+
 ## Prototype
+
+![photo](photo.jpg)
+![frame](frame.jpg)
+
+My prototype is mainly concentrate on comparison between same scene with frame and not with frame, so this is just about feel.
+
+![prototype6](protoype6.jpg)
