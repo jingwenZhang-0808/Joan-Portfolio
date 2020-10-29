@@ -6,6 +6,8 @@ In the context of the COVID-19 epidemic in the world, air quality is something w
 
 ![device](device.jpg)
 
+![report](report.jpg)
+
 ## Brainstorming
 
 ![brainstorming](air_and_safe_sketch.jpg)
