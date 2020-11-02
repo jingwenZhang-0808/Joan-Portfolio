@@ -15,4 +15,4 @@
 [day7](day7.md)
 
 ### 7 in 7 - Post Mortem
-[initial analysis](initial_analysis.md.md)
+[initial analysis](initial_analysis.md)
