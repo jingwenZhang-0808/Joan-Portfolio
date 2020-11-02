@@ -13,3 +13,6 @@
 [day5](day5.md)
 [day6](day6.md)
 [day7](day7.md)
+
+### 7 in 7 - Post Mortem
+[initial analysis](initial analysis.md)
