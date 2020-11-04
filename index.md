@@ -16,3 +16,6 @@
 
 ### 7 in 7 - Post Mortem
 [initial analysis](initial_analysis.md)
+
+### Final Project Concept
+[5 concepts](final_concept.md)
