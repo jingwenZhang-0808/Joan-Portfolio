@@ -5,40 +5,52 @@
 I collect some features of Degas and their corresponding works according to the documentary made by National Gallery of Art called Introduction to the Exhibition - Degas at the Opéra.
 
 - 6:57 He’s thinking very creatively about the experience of the opera. Ballet is just the background. 
-(The Ballet from “Robert Le Diable”)
+*The Ballet from “Robert Le Diable”*
+![The Ballet from “Robert Le Diable”](The_Ballet_from_“Robert_Le_Diable”.jpg)
 
 - 13:18 Portrait people at work.
-(The Orchestra of the Opera)
+*The Orchestra of the Opera*
+![The Orchestra of the Opera](The_Orchestra_of_the_Opera.jpg)
 
 - 19:11 They (ballet dancers) were artists, athletes. They trained and honed and refined their bodies. They were disciplined, controlled and creative. Degas cared about rehearsal scenes because he was more interested in creation process of art.
-(The Dance Class)
+*The Dance Class*
+![The Dance Class](The_Dance_Class.jpg)
 
 - 21:16 Degas hired ballet dancers to his studio. So his works are combination of reality, memory and imagination. 
-(The Rehearsal)
+*The Rehearsal
+![The Rehearsal](The_Rehearsal.jpg)
 
 - 27:23 Phantom legs are left because Degas enjoyed playing around with position. He added dancers and continued feeling his way.
-(Ballet Rehearsal on Stage)
+*Ballet Rehearsal on Stage
+![Ballet Rehearsal on Stage](Ballet_Rehearsal_on_Stage.jpg)
 
 - 32:06 Subscribers of the theatre were added as dark people. 
-(The Curtain, The Ballet)
+*The Curtain
+![The Curtain](The_Curtain.jpg)
 
 - 37:01 Painting theatre box in the view of woman.
-(Study of a Theatre Box)
+*Study of a Theatre Box
+![Study of a Theatre Box](Study_of_a_Theatre_Box.jpg)
 
 - 38:33 Elongated paintings. Diagonal view track. Same elements appear again and again.
-(Dancers in the Rehearsal Room with a Double Bass, The Dance Lesson)
+*Dancers in the Rehearsal Room with a Double Bass
+![Dancers in the Rehearsal Room with a Double Bass](Dancers_in_the_Rehearsal_Room_with_a_Double_Bass.jpg)
 
 - 41:22 Fan format from Japan. Composition for void and shape
-(Fan with Theatre Flat, Fan Dancers with Double Basses)
+*Fan with Theatre Flat
+![Fan with Theatre Flat](Fan_with_Theatre_Flat.jpg)
 
 - 51:23 Vibrant, intense and bold color. Outlining.
-(Blue Dancers)
+*Blue Dancers
+![Blue Dancers](Blue_Dancers.jpg)
 
 - 52:09 Pastel
-(Three Dancers (Blue skirts, red bodices))
+*Three Dancers (Blue skirts, red bodices)
+![Three Dancers](Three_Dancers.jpg)
 
 - 1:03:07 Sculpture as Lego
-(Little Dancer Aged Fourteen)
+*Little Dancer Aged Fourteen
+![Little Dancer Aged Fourteen](Little_Dancer_Aged_Fourteen.jpg)
 
 After summarizing and thinking, I mainly want to focus on ballet theme and establish at the Paris opera as the exhibition background image. And the features I plan to concentrate on are composition, repeated elements and subscribers as dark people. 
 
