@@ -19,3 +19,9 @@
 
 ### Final Project Concept
 [5 concepts](final_concept.md)
+
+### Research Report
+[research report](research.md)
+
+### A Story for my Topic
+[story](story.md)
