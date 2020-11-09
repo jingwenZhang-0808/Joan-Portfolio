@@ -72,6 +72,8 @@ Some analysis inspire me a lot and I summarize them here:
 
 And the author also did research about evaluating exhibition structure in exhibition, and the impact.
 
+![Table3](Table3.png)
+
 ## Any precendents?
 
 But more importantly, I want to know more about the existing examples in which light and shadow  play a role in exhibition. I got theoretical support and cases from a book called “Cultures of Light: contemporary trends in museum exhibition.”
@@ -79,6 +81,8 @@ But more importantly, I want to know more about the existing examples in which l
 In chapter 1 “Light as medium: revealing messages of contemporary light art”, Katzberg asserts that “By utilizing various properties and spectral effects of light, contemporary artists have found new ways to not only express their aesthetic but also to engage the viewer in an immersive viewing experience with an implicitly communicative function”. Here he said that light is not just for environment and background, but also as core carrier and medium of message delivering and interaction with audiences. Then Katzberg adds a theory from Claire Bishop about art installation: the dream scene, heightened perception, mimetic engulfment and activated spectatorship, and analyze light under this theory structure with real cases.
 
 For instance, a work called “Call Waiting” from James Turrell impressed me a lot. The viewers are guided to lie in a cell fulled with homogenous light and most of them can lose sense of balance after staying in this Ganzfeld field for a period. This tests the effect that light can have on physical body.
+
+![Call_Waiting](Call_Waiting.png)
 
 In chapter4 “In light`s shadow: exhibition shadow-centered media”, I learn a lot about how to utilize shadow and step further in my final design. 
 
@@ -94,6 +98,10 @@ My first important resources here are propositions of Leonardo:
 
 In the paragraph about shadow in modern exhibition, Katzberg concentrates on shadow frame, which happens to accord with my another design concept. So the content here is strongly associated with my ideal final work. 
 
+![ALARM](ALARM.png)
+
 He first demonstrate that frame is quite useful in controlling audiences` attention and perception by help organize the whole exhibition structure. Based on this idea, light and show frames are supposed to be ideal materials for frame. Because in most environments, where there is light, there will be shadows, which together turn to be double frame.
+
+![Representation](Representation.png)
 
 And in other following cases, Katzberg remind me not to forget about adjusting the size of shadow and applying the relative metaphors behind light and shadow. Especially when you need to use light and shadow to embody the space and distance, casting a much bigger or smaller shadow can have much better effects. As for the demotion and connotation role, Katzberg use a work called Air-Launched Anti-Radar Missile for explanation and discussion. In this context, the concepts of light as peace and shadow as war are embedded in. 
