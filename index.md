@@ -37,3 +37,6 @@
 
 ### Digital Prototype
 [digital prototype of final project](digital_prototype.md)
+
+### Digital Prototype 2
+[digital prototype of final project](digital_prototype2.md)
