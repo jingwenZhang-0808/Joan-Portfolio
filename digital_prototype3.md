@@ -18,10 +18,14 @@ But after talking with professor, I want to stretch my underlying concept furthe
 
 In my version2 effect1, I use mouse to control the position of the spotlight. Professor Xiang suggest me that using eye view is more natural and can avoid the problem of how to persuade audiences to click on mouse. 
 
+![facial_recognition](facialRecognition.png)
+
 Fortunately in my version2 effect2, I had applied a simple facial recognition technique. So here I combine effect1 and effect2 together, and realize this interaction initially. 
 
 ## Artwork
 
 To emphasize my new concept, I change the painting used for demonstration. I need the one with much bigger canvas, more characters and more dramatic scene. It is also better to demonstrate a work with less fame so that audiences cannot guess which one it is before seeing the overall work. 
+
+![artwork](theDerbyDay.jpg)
 
 I initially select *the Derby Day*, from William Powell Frith.
