@@ -35,8 +35,11 @@
 ### Physical Prototype
 [physical prototype of final project](physical_prototype.md)
 
-### Digital Prototype
+### Digital Prototype 1
 [digital prototype of final project](digital_prototype.md)
 
 ### Digital Prototype 2
 [digital prototype of final project effects](digital_prototype2.md)
+
+### Digital Prototype 3
+[digital prototype of final project effects](digital_prototype3.md)
