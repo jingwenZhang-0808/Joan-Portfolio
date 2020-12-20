@@ -43,3 +43,6 @@
 
 ### Digital Prototype 3
 [digital prototype of final project effects](digital_prototype3.md)
+
+### Final Motivation Statement
+[full text](final_statement.md)
